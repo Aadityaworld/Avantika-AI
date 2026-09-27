@@ -1,0 +1,14 @@
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.db
+workspace_tasks.db
+*.wav
+*.mp3
+.venv/
+venv/
+.antigravity/
